@@ -10,7 +10,7 @@
 
 The app is deployed on Azure Static Web Apps, and it can be accessed live via the following link:
 
-[https://victorious-mud-0ca3b1803.4.azurestaticapps.net](https://victorious-mud-0ca3b1803.4.azurestaticapps.net)
+[https://purple-desert-007db0c03.4.azurestaticapps.net](https://purple-desert-007db0c03.4.azurestaticapps.net)
 
 ## VIDEO Presentation
 Accessible via Youtube Link:
