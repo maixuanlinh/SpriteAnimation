@@ -14,7 +14,7 @@ The app is deployed on Azure Static Web Apps, and it can be accessed live via th
 
 ## VIDEO Presentation
 Accessible via Youtube Link:
-[]()
+[https://youtu.be/oTo3fwH7ndI](https://youtu.be/oTo3fwH7ndI)
 
 
 

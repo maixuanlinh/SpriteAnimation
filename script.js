@@ -28,7 +28,7 @@ const spriteHeight = 523;
 let gameFrame = 0;
 
 // Define the number of game frames to wait before changing the sprite frame
-const staggerFrame = 5;
+const staggerFrame = 2;
 
 // Initialize an array to store the animations for each sprite state
 const spriteAnimations = [];
